@@ -25,6 +25,7 @@ Aplikasi berbasis web untuk manajemen data siswa yang mengimplementasikan operas
 ---
 
 ## 📂 Struktur Proyek
+```text
 .
 ├── backend/
 │   ├── config/          # Konfigurasi koneksi MySQL
@@ -41,6 +42,7 @@ Aplikasi berbasis web untuk manajemen data siswa yang mengimplementasikan operas
     │   └── App.jsx      # Root component & Routing
     ├── .env             # URL API Backend
     └── package.json
+```
 
 ---
 
